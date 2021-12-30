@@ -1,0 +1,9 @@
+# 忽略 作图.pptx
+*.pptx
+# outputs 文件夹下的所有文件，iteration_4000.png 除外
+outputs/!iteration_4000.png
+
+
+
+
+
