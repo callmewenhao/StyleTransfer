@@ -74,3 +74,7 @@ $$
 
 https://keras.io/examples/generative/neural_style_transfer/
 
+## fast-style-transfer
+
+> paper: [Perceptual Losses for Real-Time Style Transfer and Super-Resolution](https://arxiv.org/pdf/1603.08155v1.pdf) 
+
